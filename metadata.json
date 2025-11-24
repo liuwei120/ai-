@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NanoStyle AI - Virtual Try-On",
+  "description": "An AI-powered outfit changer using Gemini Nano Banana models. Upload your photo, choose or generate an outfit, and see the magic happen.",
+  "requestFramePermissions": []
+}
